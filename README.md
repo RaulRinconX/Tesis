@@ -14,3 +14,10 @@ http://27ezycbepl3hfy5evofi4ctoj3n7b3pwovtnxozazu7xlvsehlvriyad.onion/product-ca
 AARONIA - AARTOS
 https://drone-detection-system.com/sensor-types-overview/detection-rf/
 https://downloads.aaronia.com/datasheets/solutions/drone_detection/Aaronia_AARTOS-DDS_Overview.pdf
+
+
+----------
+
+https://github.com/444A49/minifindings
+
+
