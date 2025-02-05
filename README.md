@@ -20,4 +20,25 @@ https://downloads.aaronia.com/datasheets/solutions/drone_detection/Aaronia_AARTO
 
 https://github.com/444A49/minifindings
 
+https://github.com/CunningLogic/DUMLRacer
+
+FIRMWARES VULNERABLES DJI-PHANTOM-PRO-4
+
+01.00.0620
+01.01.0203
+01.02.0304
+01.03.0509
+01.04.0100
+01.04.0602
+01.05.0300
+01.05.0600
+01.06.0910
+
+FIRMWARES VULNERABLES DJI-MINI-2-SE
+
+01.00.0100
+01.00.0200
+01.00.0360
+
+
 
