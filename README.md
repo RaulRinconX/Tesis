@@ -40,5 +40,11 @@ FIRMWARES VULNERABLES DJI-MINI-2-SE
 - 01.00.0200
 - 01.00.0360
 
+REPOS:
+
+https://github.com/tesorrells/RF-Drone-Detection
+
+
+
 
 
